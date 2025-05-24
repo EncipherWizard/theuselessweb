@@ -56,19 +56,3 @@ theuselessweb/
 
 Pull requests are welcome!  
 If you know a fun useless website, feel free to add it to the list in [`js/uselessweb.js`](js/uselessweb.js).
-
----
-
-## 📢 Share
-
-- [Share on Weibo](http://service.weibo.com/share/share.php?url=https://anky.cc/suiji/&title=This%20is%20a%20useless%20web%20page,%20it%20will%20take%20you%20to%20another%20useless%20website.&pic=http://wx2.sinaimg.cn/large/73ed89cbgy1fmzc356rzaj20ru0rudku.jpg&ralateUid=1944947147&language=en_us&appkey=1302593611)
-
----
-
-## 📄 License
-
-MIT
-
----
-
-> Made for fun by [anky](https://weibo.com/liuhuei) | [ANKY.CC](https://anky.cc)
