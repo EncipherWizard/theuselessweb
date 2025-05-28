@@ -10,7 +10,7 @@ Click the button and get transported to a random, fun, and totally useless websi
 
 ## 🚀 Try it out
 
-👉 [**Visit The Useless Web**](http://www.theuselessweb.com/) 👈
+👉 [**Visit The Useless Web**](https://encipherwizard.github.io/theuselessweb/) 👈
 
 ---
 
